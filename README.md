@@ -19,11 +19,6 @@ Passionate about **building scalable microservices**, **optimizing APIs**, and *
 
 ---
 
-## **🔥 What I’ve Built (And Broke Before Fixing 😅)**  
-
-
----
-
 ## **🚀 Fun Facts About Me**  
 
 🔹 I talk to **APIs** more than people.  
