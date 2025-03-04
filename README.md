@@ -21,14 +21,6 @@ Passionate about **building scalable microservices**, **optimizing APIs**, and *
 
 ## **🔥 What I’ve Built (And Broke Before Fixing 😅)**  
 
-### 🏡 **Realtor Vision** 🏠  
-**AI-powered property listing automation** using **AWS Bedrock** to generate real estate descriptions faster than a realtor can say *“This house won’t last!”* Integrated **Spring Boot microservices** to process and tag property images from **AWS S3**.  
-
-### ✉️ **Notification Service** 📢  
-Centralized **event-driven notification system** (aka “Let’s spam responsibly”) using **Twilio, SendGrid, Mustache, and AWS SQS** to send **personalized SMS, emails, and push notifications**—because who doesn’t love getting reminders they never asked for?  
-
-### 🤖 **Copilot AI Chatbot** 🤝  
-Built an **HR chatbot in Microsoft Copilot Studio** that answers questions about **leave balances, payroll, and company policies**. Employees no longer have to email HR for the 10th time about their PTO. **Efficiency = 60% increase. Sanity saved = 100%.**  
 
 ---
 
