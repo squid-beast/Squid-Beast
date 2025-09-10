@@ -29,7 +29,7 @@ Passionate about **building scalable microservices**, **optimizing APIs**, and *
 ## **📊 GitHub Stats**  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Squid-Beast&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=squid-beast&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -46,7 +46,7 @@ Passionate about **building scalable microservices**, **optimizing APIs**, and *
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lknnerukonda/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://github.com/Squid-Beast"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://github.com/squid-beast"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" /></a>
 </p>
 
 🚀 **Let’s build something awesome! (And try not to break production 🤞)**
